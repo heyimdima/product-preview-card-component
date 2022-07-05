@@ -1,5 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
 
+:root {
+--darkCyan: hsl(158, 36%, 37%);
+--cream: hsl(30, 38%, 92%);
+--veryDarkBlue: hsl(212, 21%, 14%);
+--darkGrayishBlue: hsl(228, 12%, 48%);
+--white: hsl(0, 0%, 100%);
+}
+
 html,
 body {
     height: 100%;
